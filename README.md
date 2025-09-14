@@ -36,13 +36,13 @@
 
 ## 🌍 Connect with me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/apip-rahman-syahidan-141b25288" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:apiprs24@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="[https://yourwebsite.com](https://portofoliomee.vercel.app)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
