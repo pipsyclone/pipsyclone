@@ -15,12 +15,12 @@
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres" />
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
