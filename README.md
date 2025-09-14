@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Your Name  
 
-<!--
-**pipsyclone/pipsyclone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer | NextJS | Laravel 
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=600&lines=Passionate+about+Web+Development;Loves+to+build+Scalable+Applications;Always+learning+new+techs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pipsyclone&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipsyclone&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+## 🌍 Connect with me  
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/pipsyclone)
