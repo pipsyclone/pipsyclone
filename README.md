@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pipsyclone&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pipsyclone&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pipsyclone&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
