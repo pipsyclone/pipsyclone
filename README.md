@@ -41,7 +41,7 @@
   <a href="mailto:apiprs24@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portofoliomee.vercel.app" target="_blank">
+  <a href="https://portfoliome.up.railway.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
