@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apip Rahman Syahidan  
 
-### 🚀 Fullstack Developer | NextJS | Laravel 
+### 🚀 Web Developer | NextJS | Laravel 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=false&vCenter=true&width=600&lines=Passionate+about+Web+Development;Loves+to+build+Scalable+Applications;Always+learning+new+techs)
 
